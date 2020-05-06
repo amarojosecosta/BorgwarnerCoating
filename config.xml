@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <plantName>BorgWarner</plantName>
+    <prodLine>line nº</prodLine>
+    <swVersion></swVersion>
+    <plcIpAddress></plcIpAddress>
+    <prodCode>999999999999</prodCode>
+    <scannerId>1950g</scannerId>
+    <bcMinSize>11</bcMinSize>
+    <bcMaxSize>15</bcMaxSize>
+    <AlarmTime>09:30</AlarmTime>
+    
+</data>

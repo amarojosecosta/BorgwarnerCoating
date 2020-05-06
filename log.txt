@@ -1,0 +1,6 @@
+2020:01:24 18:22:59 - Error reading configuration file
+2020:01:24 18:23:14 - Error reading configuration file
+2020:01:24 18:33:20 - Error reading configuration file
+2020:01:24 18:33:47 - Error reading configuration file
+2020:01:24 18:33:49 - Error reading configuration file
+2020:01:24 18:33:55 - Error reading configuration file
